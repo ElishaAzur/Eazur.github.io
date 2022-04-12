@@ -1,6 +1,4 @@
 Hello welcome :)
-Favorite songs 
-[Movie by junny] (https://youtu.be/u-7VCfzySmw)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
